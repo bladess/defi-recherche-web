@@ -33,12 +33,23 @@ source :https://forum.ubuntu-fr.org/viewtopic.php?id=39233
 
 Que sont les Creatives Commons ?
 
+Les licences Creative Commons constituent un ensemble de licences régissant les conditions de réutilisation et de distribution d'œuvres (notamment d'œuvres multimédias diffusées sur Internet).
+Source : wikipédia
+
 Qui est Grace Hopper ?
+Elle est la conceptrice du premier compilateur et du langage COBOL
+
+source : wikipédia
 
 Qu'est-ce que Qwant ?
 
+C'est un moteur de recherche qui respecte la vie privée et qui facilite le partage grace à une approche sociale.
+Source : quant.com
+
 Qui est Steve Wozniak ?
 
+C'est le cofondateur d'Apple Computer et le concepteur des premiers Apple
+Source ; wikipédia
 D'où vient l'expression "bug informatique" ?
 
 Quels sont les communautés de développeurs à Toulouse et quels sont 
