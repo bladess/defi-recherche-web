@@ -3,10 +3,17 @@ Par qui, quand, pourquoi et où a été inventé Internet ?
 Quelle est la différence entre le Web et Internet ?
 
 Qu’est-ce que cela :
-8.8.8.8
-192.168.0.1
-255.255.255.0
-127.0.0.1
+8.8.8.8 : l'adresse IP du DNS (domain name system) de google.
+Source : https://korben.info/dns-google.html
+
+192.168.0.1 : c'est l'adresse IP privé la plus utilisé par les routeurs de marque Netgear et D-Link 
+Source : http://www.tech-faq.com/192-168-0-1.html
+
+255.255.255.0 : c'est le masque de sous reseau le plus utilisé par les ordinateur connectés à internet
+
+Source:https://www.lifewire.com/255-255-255-0-ip-networking-818371
+
+127.0.0.1: c'est l'adresse ip locale de la machine sur laquelle on se trouve
 
  Que sont le copyright et le copyleft ?
 
@@ -134,6 +141,8 @@ Qu'est-ce qu'une Cheatsheet ?
 Combien de requêtes y-a-t-il sur Google toutes les minutes ?
 
 Qu’est-ce que les joies du code ?
+
+Les joies du code est un site communautaire où les developpeurs partages des moments de la vie professionnel d'un développeur a l'aide d'image GIF (animé)
 
 Qui sont Larry Page et Sergey Brin ?
 
