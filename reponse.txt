@@ -2,6 +2,12 @@ Par qui, quand, pourquoi et où a été inventé Internet ?
 
 Quelle est la différence entre le Web et Internet ?
 
+"Internet est le réseau informatique mondial, c'est l'infrastructure globale, basée sur le protocole IP, et sur laquelle s'appuient de nombreux autres services. Dont le web.
+
+Le World Wide Web, c'est le système qui nous permet de naviguer de pages en pages en cliquant sur des liens grâce à un navigateur. Quand on veut se la jouer, on parle de système hypertexte.
+
+source :https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
+
 Qu’est-ce que cela :
 8.8.8.8 : l'adresse IP du DNS (domain name system) de google.
 Source : https://korben.info/dns-google.html
@@ -15,7 +21,15 @@ Source:https://www.lifewire.com/255-255-255-0-ip-networking-818371
 
 127.0.0.1: c'est l'adresse ip locale de la machine sur laquelle on se trouve
 
- Que sont le copyright et le copyleft ?
+Que sont le copyright et le copyleft ?
+copyright :
+Droit exclusif que se réserve un auteur ou son représentant d'exploiter commercialement pendant un nombre déterminé d'années son œuvre littéraire, artistique ou scientifique. (TLFi)
+Ça vous va comme définition ? Je ne suis pas trop d'accord avec "commercialement", mais ce n'est pas évident de trouver une définition simple, précise et juste de copyright.
+
+Copyleft :
+Officiellement l'opposé de copyright, mais en réalité le copyleft est un copyright, un copyright avec des droits plus libres, plus tolérants, ouverts, etc.
+
+source :https://forum.ubuntu-fr.org/viewtopic.php?id=39233
 
 Que sont les Creatives Commons ?
 
