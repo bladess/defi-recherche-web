@@ -50,47 +50,92 @@ Qui est Steve Wozniak ?
 
 C'est le cofondateur d'Apple Computer et le concepteur des premiers Apple
 Source ; wikipédia
+
 D'où vient l'expression "bug informatique" ?
+
+L’utilisation du mot « bug » pour désigner le dysfonctionnement d’un ordinateur aurait trouvé son origine dans les années 40. En s’introduisant dans les gros relais, les insectes causaient des « bugs ».
+
+source :https://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/
 
 Quels sont les communautés de développeurs à Toulouse et quels sont 
 leurs prochains évènements ?
 
+
 Quels sont les prochains rendez-vous tech de Toulouse ?
+10-11 octobre EmTech
+http://france3-regions.blog.francetvinfo.fr/numerique-midi-pyrenees/2017/04/19/toulouse-va-accueillir-une-nouvelle-fois-emtech-la-plus-importante-conference-internationale-sur-les-technologies-du-futur.html
 
 
 Qui est Aaron Swartz ?
 
+Aaron Swartz a eu un rôle décisif dans l'essor de l'Internet, tant sur le plan technique notamment en développant le format de flux RSS2, l'organisation Creative Commons3 que sur le plan de la gouvernance juridique et politique en manifestant contre le projet de la loi SOPA 
+source : wikipedia
+
 Qu’est-ce que le projet GNU ?
+C'est un projet de systeme d'exploitation totalement libre et complet.
+source: wikipedia
 
 Quelles sont les différences entre le Http et le Https ?
+le https est un protocole web securisé qui utilise SSL pour crypter les données echangées.
+http ne crypte pas les données
+
+source :http://www.culture-informatique.net/cest-quoi-difference-http-https/
 
 Qui est Richard Stallman ?
+Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL.
+Développeur de l’éditeur de texte GNU Emacs, du compilateur C de GNU (GCC), du débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, du moteur de production GNU Make.
+Source : wikipedia
 
-Comment fonctionnent les bang de Duck Duck Go ?
-
+Comment fonctionnent les bang de Duck Duck Go  
+les bang permettent de rechercher directement sur d'autre moteurs de recherche 
+source : https://duck.co/help/features/bangs
 Qui est Marissa Mayer ?
 
+Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation
+source wikipédia
+
 Qu’est-ce qu’une attaque “brute force” ?
+C'est une attaque de mot de passe ou on essai toute les combinaisons jusqu'a que ça marche
 
 Qui est Linus Torvalds ?
-
+Il est connu pour avoir créé en 1991 (à 22 ans) le noyau Linux dont il continue de diriger le développement. Il en est considéré comme le « dictateur bienveillant ».
+source : wikipedia
 Quels sont ses plus grands développements ?
 
 Combien coûte un nom de domaine ?
+ Un nom de domaine se loue a l'année et coute de 0 à 40 euros par an selon les extentions
+source :https://www.1and1.fr/
 
 Quels sont les différents services d'emailing disponibles ?
-
+https://www.arobase.org/gratuit/comparatif-messageries.htm
 
 Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+Soit sarbacane si j'ai besoin d'une solution ultra complete et que le client n'est pas contre une solution payante sinon
+Soit Sendinblue qui est plus abordable avec un premier palier de mails par mois gratuit.
+source : https://www.pme-web.com/comparatif-complet-logiciels-emailing/
 
 Quelle est votre adress IP actuelle ?
+77.136.86.72
+http://www.mon-ip.com/
 
 Et celle de votre smartphone ?
+37.169.114.119
+http://www.mon-ip.com/ via smartpone
 
 Qu’est-ce que le développement en cycle V ?
+Le modèle du cycle en V (en comparaison avec les méthodes dites agiles) est un modèle conceptuel de gestion de projet imaginé à la suite du problème de réactivité du modèle en cascade. Il permet, en cas d'anomalie, de limiter un retour aux étapes précédentes. Les phases de la partie montante doivent renvoyer de l'information sur les phases en vis-à-vis lorsque des défauts sont détectés, afin d'améliorer le logiciel.
+source: wikipedia
 
 Les Hackers sont-ils des hors-la-loi ?
+Pas forcément :
+En sécurité informatique, un hacker (ou hackeur) est un spécialiste qui recherche les moyens de contourner les protections logicielles et matérielles. Il peut vouloir signaler les failles trouvées au propriétaire du système concerné (dans une démarche d'amélioration de la sécurité de ce système), en tirer profit, les utiliser dans une démarche militante (on parle alors d'hacktivisme) ou simplement considérer le contournement (hacking) comme un défi.
+
+source wikipedia
+
 Qui a inventé la souris ?
+La souris a été inventée en 1963 par Douglas Engelbart du Stanford Research Institute et présentée au public en 1968.
+
+Source wikipedia
 
 Qui est Margaret Hamilton ?
 
